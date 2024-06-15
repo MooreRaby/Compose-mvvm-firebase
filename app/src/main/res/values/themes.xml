@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ComTam" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.SplashScreenTheme" parent="Theme.SplashScreen">
+<!--        <item name="android:windowBackground">@color/backgroundDark</item> &lt;!&ndash; Set your desired background color &ndash;&gt;-->
+        <item name="windowSplashScreenBackground">@color/backgroundDark</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_comtum</item>
+        <item name="android:statusBarColor">@color/backgroundDark</item>
+        <item name="postSplashScreenTheme">@style/Theme.ComTam</item>
+    </style>
+</resources>

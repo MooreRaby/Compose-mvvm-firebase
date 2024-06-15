@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37191948614",
+    "project_id": "comtam-605c2",
+    "storage_bucket": "comtam-605c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37191948614:android:01602e2fe1959593baad47",
+        "android_client_info": {
+          "package_name": "net.pro.comtam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0yn5vmjnRup4iuaKhSy6OtFXrYR16AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
